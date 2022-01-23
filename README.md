@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trader-dave
 - 👀 I’m interested in RGB LED control, audio-animatronics, radar control
-- 🌱 I’m currently learning Apple Swift
+- 🌱 I’m currently learning Web Design and Apple Swift
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
